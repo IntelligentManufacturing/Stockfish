@@ -41,6 +41,7 @@ Value evaluate(const Position& pos, int optimism);
 // name of the macro, as it is used in the Makefile.
 #define EvalFileDefaultNameBig "nn-b1a57edbea57.nnue"
 #define EvalFileDefaultNameSmall "nn-baff1ede1f90.nnue"
+#define EvalFileDefaultDir "../nnue/"
 
 struct EvalFile {
     // UCI option name

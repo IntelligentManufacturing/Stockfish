@@ -1,3 +1,6 @@
+# Build dir
+build
+
 # Files from build
 **/*.o
 **/*.s
@@ -10,3 +13,5 @@ src/-lstdc++.res
 # Neural network for the NNUE evaluation
 **/*.nnue
 
+# Vscode dir
+.vscode
